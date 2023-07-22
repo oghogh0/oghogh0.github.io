@@ -6,7 +6,21 @@
   - [Lisp Interpreter Lab](https://github.com/oghogh0/Lisp_Interpreter_Lab)
 - <b>Processing</b>
   - [Audio Processing](https://github.com/oghogh0/Audio-Processing-Lab)
-  - [Audio Processing]()
+  - [Image Processing]()
+- <b>Mines</b>
+  - [Mines Lab]()
+- <b>Snekoban</b>
+  - [Snekoban Lab]()
+- <b>Symbolic Algebra</b>
+  - [Symbolic Algebra Lab]()
+- <b>Sat</b>
+  - [Sat Lab]()
+- <b>Bacon</b>
+  - [Bacon Lab]()
+- <b>Flood Fill</b>
+  - [Flood Fill Lab]()
+- <b>Autocomplete</b>
+  - [Autocomplete Lab]()
 
 
 <h2> 📲 Connect with me:</h2>
