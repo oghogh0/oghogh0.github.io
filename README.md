@@ -6,7 +6,7 @@
   - [Lisp Interpreter Lab](https://github.com/oghogh0/Lisp_Interpreter_Lab)
 - <b>Processing</b>
   - [Audio Processing](https://github.com/oghogh0/Audio-Processing-Lab)
-  - [Image Processing]()
+  - [Image Processing](https://github.com/oghogh0/Image-Processing-Lab/tree/main)
 - <b>Mines</b>
   - [Mines Lab]()
 - <b>Snekoban</b>
