@@ -14,7 +14,7 @@
 - <b>Snekoban</b>
   - [Snekoban Lab](https://github.com/oghogh0/Snekoban-Lab)
 - <b>Symbolic Algebra</b>
-  - [Symbolic Algebra Lab]()
+  - [Symbolic Algebra Lab](https://github.com/oghogh0/Symbolic-Algebra-Lab)
 - <b>Sat</b>
   - [Sat Lab]()
 - <b>Flood Fill</b>
