@@ -12,7 +12,7 @@
 - <b>Mines</b>
   - [Mines Lab](https://github.com/oghogh0/Mines-Lab)
 - <b>Snekoban</b>
-  - [Snekoban Lab]()
+  - [Snekoban Lab](https://github.com/oghogh0/Snekoban-Lab)
 - <b>Symbolic Algebra</b>
   - [Symbolic Algebra Lab]()
 - <b>Sat</b>
