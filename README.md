@@ -8,7 +8,7 @@
   - [Audio Processing](https://github.com/oghogh0/Audio-Processing-Lab)
   - [Image Processing](https://github.com/oghogh0/Image-Processing-Lab/tree/main)
 - <b>Bacon</b>
-  - [Bacon Lab]()
+  - [Bacon Lab](https://github.com/oghogh0/Bacon-Lab)
 - <b>Mines</b>
   - [Mines Lab](https://github.com/oghogh0/Mines-Lab)
 - <b>Snekoban</b>
