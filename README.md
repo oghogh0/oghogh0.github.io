@@ -10,7 +10,7 @@
 - <b>Bacon</b>
   - [Bacon Lab]()
 - <b>Mines</b>
-  - [Mines Lab]()
+  - [Mines Lab](https://github.com/oghogh0/Mines-Lab)
 - <b>Snekoban</b>
   - [Snekoban Lab]()
 - <b>Symbolic Algebra</b>
