@@ -7,6 +7,8 @@
 - <b>Processing</b>
   - [Audio Processing](https://github.com/oghogh0/Audio-Processing-Lab)
   - [Image Processing](https://github.com/oghogh0/Image-Processing-Lab/tree/main)
+- <b>Bacon</b>
+  - [Bacon Lab]()
 - <b>Mines</b>
   - [Mines Lab]()
 - <b>Snekoban</b>
@@ -15,8 +17,6 @@
   - [Symbolic Algebra Lab]()
 - <b>Sat</b>
   - [Sat Lab]()
-- <b>Bacon</b>
-  - [Bacon Lab]()
 - <b>Flood Fill</b>
   - [Flood Fill Lab]()
 - <b>Autocomplete</b>
