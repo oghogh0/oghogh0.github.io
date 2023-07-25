@@ -20,7 +20,7 @@
 - <b>Autocomplete</b>
   - [Autocomplete Lab]()
 - <b>Recipes</b>
-  - [Recipes Lab]()
+  - [Recipes Lab](https://github.com/oghogh0/Recipes-Lab)
 
 
 <h2> 📲 Connect with me:</h2>
