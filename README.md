@@ -16,7 +16,7 @@
 - <b>Symbolic Algebra</b>
   - [Symbolic Algebra Lab](https://github.com/oghogh0/Symbolic-Algebra-Lab)
 - <b>Sat</b>
-  - [Sat Lab]()
+  - [Sat Lab](https://github.com/oghogh0/SAT-Lab)
 - <b>Flood Fill</b>
   - [Flood Fill Lab]()
 - <b>Autocomplete</b>
