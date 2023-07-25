@@ -21,6 +21,8 @@
   - [Flood Fill Lab]()
 - <b>Autocomplete</b>
   - [Autocomplete Lab]()
+- <b>Recipes</b>
+  - [Recipes Lab]()
 
 
 <h2> 📲 Connect with me:</h2>
