@@ -18,7 +18,7 @@
 - <b>Sat</b>
   - [Sat Lab](https://github.com/oghogh0/SAT-Lab)
 - <b>Autocomplete</b>
-  - [Autocomplete Lab]()
+  - [Autocomplete Lab](https://github.com/oghogh0/Autocomplete-Lab)
 - <b>Recipes</b>
   - [Recipes Lab](https://github.com/oghogh0/Recipes-Lab)
 
